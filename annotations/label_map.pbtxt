@@ -1,0 +1,14 @@
+item {
+    id: 1
+    name: 'lada hijau'
+}
+
+item {
+    id: 2
+    name: 'lada kuning'
+}
+
+item {
+    id: 3
+    name: 'lada merah'
+}

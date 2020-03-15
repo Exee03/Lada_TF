@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>photo_2020-01-29_13-22-56 (7).jpg</filename>
+	<path>C:\src\TensorFlow\workspace\lada\images\photo_2020-01-29_13-22-56 (7).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lada hijau</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>471</xmin>
+			<ymin>130</ymin>
+			<xmax>691</xmax>
+			<ymax>786</ymax>
+		</bndbox>
+	</object>
+</annotation>
